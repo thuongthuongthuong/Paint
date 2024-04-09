@@ -1,0 +1,11 @@
+D:\Học\Paint\Contract\bin\Debug\net6.0-windows\Contract.deps.json
+D:\Học\Paint\Contract\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Contract\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfoInputs.cache
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.AssemblyInfo.cs
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\refint\Contract.dll
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Contract\obj\Debug\net6.0-windows\ref\Contract.dll

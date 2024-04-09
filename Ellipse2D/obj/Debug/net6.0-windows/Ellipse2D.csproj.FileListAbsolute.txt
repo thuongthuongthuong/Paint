@@ -1,0 +1,15 @@
+D:\Học\Paint\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.deps.json
+D:\Học\Paint\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.dll
+D:\Học\Paint\Ellipse2D\bin\Debug\net6.0-windows\Ellipse2D.pdb
+D:\Học\Paint\Ellipse2D\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Ellipse2D\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.AssemblyReference.cache
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.AssemblyInfoInputs.cache
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.AssemblyInfo.cs
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.csproj.CopyComplete
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.dll
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\refint\Ellipse2D.dll
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\Ellipse2D.pdb
+D:\Học\Paint\Ellipse2D\obj\Debug\net6.0-windows\ref\Ellipse2D.dll

@@ -1,0 +1,15 @@
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.csproj.AssemblyReference.cache
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.AssemblyInfoInputs.cache
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.AssemblyInfo.cs
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Rectangle2D\bin\Debug\net6.0-windows\Rectangle2D.deps.json
+D:\Học\Paint\Rectangle2D\bin\Debug\net6.0-windows\Rectangle2D.dll
+D:\Học\Paint\Rectangle2D\bin\Debug\net6.0-windows\Rectangle2D.pdb
+D:\Học\Paint\Rectangle2D\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Rectangle2D\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.csproj.CopyComplete
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.dll
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\refint\Rectangle2D.dll
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\Rectangle2D.pdb
+D:\Học\Paint\Rectangle2D\obj\Debug\net6.0-windows\ref\Rectangle2D.dll

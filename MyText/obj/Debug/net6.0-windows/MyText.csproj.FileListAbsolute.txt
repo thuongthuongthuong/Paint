@@ -1,0 +1,15 @@
+D:\Học\Paint\MyText\bin\Debug\net6.0-windows\MyText.deps.json
+D:\Học\Paint\MyText\bin\Debug\net6.0-windows\MyText.dll
+D:\Học\Paint\MyText\bin\Debug\net6.0-windows\MyText.pdb
+D:\Học\Paint\MyText\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\MyText\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.csproj.AssemblyReference.cache
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.AssemblyInfoInputs.cache
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.AssemblyInfo.cs
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.csproj.CoreCompileInputs.cache
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.csproj.CopyComplete
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.dll
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\refint\MyText.dll
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\MyText.pdb
+D:\Học\Paint\MyText\obj\Debug\net6.0-windows\ref\MyText.dll

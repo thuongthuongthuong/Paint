@@ -1,0 +1,15 @@
+D:\Học\Paint\Circle2D\bin\Debug\net6.0-windows\Circle2D.deps.json
+D:\Học\Paint\Circle2D\bin\Debug\net6.0-windows\Circle2D.dll
+D:\Học\Paint\Circle2D\bin\Debug\net6.0-windows\Circle2D.pdb
+D:\Học\Paint\Circle2D\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Circle2D\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.csproj.AssemblyReference.cache
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.AssemblyInfoInputs.cache
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.AssemblyInfo.cs
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.csproj.CopyComplete
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.dll
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\refint\Circle2D.dll
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\Circle2D.pdb
+D:\Học\Paint\Circle2D\obj\Debug\net6.0-windows\ref\Circle2D.dll

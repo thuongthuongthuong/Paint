@@ -1,0 +1,15 @@
+D:\Học\Paint\Square2D\bin\Debug\net6.0-windows\Square2D.deps.json
+D:\Học\Paint\Square2D\bin\Debug\net6.0-windows\Square2D.dll
+D:\Học\Paint\Square2D\bin\Debug\net6.0-windows\Square2D.pdb
+D:\Học\Paint\Square2D\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Square2D\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.csproj.AssemblyReference.cache
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.AssemblyInfoInputs.cache
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.AssemblyInfo.cs
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.csproj.CopyComplete
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.dll
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\refint\Square2D.dll
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\Square2D.pdb
+D:\Học\Paint\Square2D\obj\Debug\net6.0-windows\ref\Square2D.dll

@@ -1,0 +1,15 @@
+D:\Học\Paint\Line2D\bin\Debug\net6.0-windows\Line2D.deps.json
+D:\Học\Paint\Line2D\bin\Debug\net6.0-windows\Line2D.dll
+D:\Học\Paint\Line2D\bin\Debug\net6.0-windows\Line2D.pdb
+D:\Học\Paint\Line2D\bin\Debug\net6.0-windows\Contract.dll
+D:\Học\Paint\Line2D\bin\Debug\net6.0-windows\Contract.pdb
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.AssemblyReference.cache
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfoInputs.cache
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.AssemblyInfo.cs
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.CoreCompileInputs.cache
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.csproj.CopyComplete
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.dll
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\refint\Line2D.dll
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\Line2D.pdb
+D:\Học\Paint\Line2D\obj\Debug\net6.0-windows\ref\Line2D.dll
